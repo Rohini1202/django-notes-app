@@ -20,6 +20,8 @@ docker build -t notes-app .
 3. Run the app
 ```
 docker run -d -p 8000:8000 notes-app:latest
+
+all added 
 ```
 
 ## Nginx
